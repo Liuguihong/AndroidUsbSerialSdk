@@ -1,0 +1,3 @@
+include ':commonusbserialsdk'
+include ':app'
+rootProject.name = "CommonUsbSerialSdk"
