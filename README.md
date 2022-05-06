@@ -1,10 +1,10 @@
 [**USB、USB转串口、串口通信的区别与实现**](https://blog.csdn.net/u011630465/article/details/124168432?spm=1001.2014.3001.5501)
 
 **本库优势：**
-1.同时满足USB通信和USB转串口通信，免去维护多个SDK烦恼
-2.超简单的使用方式，超简洁的API
-3.支持全方位自定义扩展，与业务高度解耦，满足各种场景需求
-4.无需关注繁琐的USB插拔逻辑
+1. 同时满足USB通信和USB转串口通信，免去维护多个SDK烦恼
+2. 超简单的使用方式，超简洁的API
+3. 支持全方位自定义扩展，与业务高度解耦，满足各种场景需求
+4. 无需关注繁琐的USB插拔逻辑
 
 github地址：[https://github.com/Liuguihong/AndroidUsbSerialSdk](https://github.com/Liuguihong/AndroidUsbSerialSdk)
 
