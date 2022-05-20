@@ -21,7 +21,7 @@ mCommonUsbSerialSdk.setBaudRate(115200) // 波特率
         .setStopBits(UsbSerialPort.STOPBITS_1) // 停止位
         .setParity(UsbSerialPort.PARITY_NONE) // 奇偶校验位
         .setForceGrant(true) // 强制授权，授权不成功重复弹出授权弹窗
-        .setPortType(PortType.USB_TO_SERIAL) // 通信类型
+        .setPortType(PortType.USB_TO_SERIAL) // 通信类型，可选择usb通信或者usb转串口通信
 ```
 #### 4.设置USB设备过滤条件
 ```java
